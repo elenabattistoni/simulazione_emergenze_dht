@@ -1,0 +1,241 @@
+quartiere;descrizione;probabilita
+CentroStorico;infarto;0.1519
+CentroStorico;caduta accidentale;0.1266
+CentroStorico;intossicazione o avvelenamento;0.1139
+CentroStorico;emergenza ostetrica;0.0633
+CentroStorico;crisi epilettica;0.0633
+CentroStorico;incendio veicolo;0.0380
+CentroStorico;incendio edificio;0.0380
+CentroStorico;incendio bosco;0.0000
+CentroStorico;fuga gas;0.0127
+CentroStorico;crollo strutturale;0.0253
+CentroStorico;rapina in corso;0.1898
+CentroStorico;controllo traffico e incidenti;0.1519
+CentroStorico;gestione manifestazioni o proteste;0.1266
+CentroStorico;scomparsa persona;0.0633
+CentroStorico;truffa o frode;0.1013
+CentroStorico;alluvione o esondazione;0.0000
+CentroStorico;frana o smottamento;0.0000
+CentroStorico;terremoto;0.0000
+CentroStorico;evacuazione di zona a rischio;0.0000
+CentroStorico;blackout elettrico diffuso;0.0000
+CentroStorico;persona dispersa in montagna;0.0000
+CentroStorico;recupero in zone difficili;0.0000
+CentroStorico;emergenza nevosa o ghiaccio;0.0000
+CentroStorico;incidente escursionistico;0.0000
+BorgoNuovo;infarto;0.1566
+BorgoNuovo;caduta accidentale;0.0964
+BorgoNuovo;intossicazione o avvelenamento;0.0843
+BorgoNuovo;emergenza ostetrica;0.0843
+BorgoNuovo;crisi epilettica;0.0482
+BorgoNuovo;incendio veicolo;0.0361
+BorgoNuovo;incendio edificio;0.0241
+BorgoNuovo;incendio bosco;0.0000
+BorgoNuovo;fuga gas;0.0120
+BorgoNuovo;crollo strutturale;0.0602
+BorgoNuovo;rapina in corso;0.1446
+BorgoNuovo;controllo traffico e incidenti;0.1205
+BorgoNuovo;gestione manifestazioni o proteste;0.0964
+BorgoNuovo;scomparsa persona;0.0482
+BorgoNuovo;truffa o frode;0.0964
+BorgoNuovo;alluvione o esondazione;0.0120
+BorgoNuovo;frana o smottamento;0.0000
+BorgoNuovo;terremoto;0.0120
+BorgoNuovo;evacuazione di zona a rischio;0.0602
+BorgoNuovo;blackout elettrico diffuso;0.0120
+BorgoNuovo;persona dispersa in montagna;0.0000
+BorgoNuovo;recupero in zone difficili;0.0000
+BorgoNuovo;emergenza nevosa o ghiaccio;0.0000
+BorgoNuovo;incidente escursionistico;0.0000
+BorgoAntico;infarto;0.1341
+BorgoAntico;caduta accidentale;0.1098
+BorgoAntico;intossicazione o avvelenamento;0.0854
+BorgoAntico;emergenza ostetrica;0.0488
+BorgoAntico;crisi epilettica;0.0488
+BorgoAntico;incendio veicolo;0.0366
+BorgoAntico;incendio edificio;0.0732
+BorgoAntico;incendio bosco;0.0000
+BorgoAntico;fuga gas;0.0122
+BorgoAntico;crollo strutturale;0.0366
+BorgoAntico;rapina in corso;0.1585
+BorgoAntico;controllo traffico e incidenti;0.1220
+BorgoAntico;gestione manifestazioni o proteste;0.1098
+BorgoAntico;scomparsa persona;0.0488
+BorgoAntico;truffa o frode;0.0976
+BorgoAntico;alluvione o esondazione;0.0122
+BorgoAntico;frana o smottamento;0.0122
+BorgoAntico;terremoto;0.0122
+BorgoAntico;evacuazione di zona a rischio;0.0488
+BorgoAntico;blackout elettrico diffuso;0.0122
+BorgoAntico;persona dispersa in montagna;0.0000
+BorgoAntico;recupero in zone difficili;0.0000
+BorgoAntico;emergenza nevosa o ghiaccio;0.0000
+BorgoAntico;incidente escursionistico;0.0000
+Industriale;infarto;0.0758
+Industriale;caduta accidentale;0.0758
+Industriale;intossicazione o avvelenamento;0.0758
+Industriale;emergenza ostetrica;0.0303
+Industriale;crisi epilettica;0.0303
+Industriale;incendio veicolo;0.1515
+Industriale;incendio edificio;0.1515
+Industriale;incendio bosco;0.0152
+Industriale;fuga gas;0.0455
+Industriale;crollo strutturale;0.0758
+Industriale;rapina in corso;0.0606
+Industriale;controllo traffico e incidenti;0.0758
+Industriale;gestione manifestazioni o proteste;0.0455
+Industriale;scomparsa persona;0.0303
+Industriale;truffa o frode;0.0455
+Industriale;alluvione o esondazione;0.0152
+Industriale;frana o smottamento;0.0152
+Industriale;terremoto;0.0152
+Industriale;evacuazione di zona a rischio;0.0152
+Industriale;blackout elettrico diffuso;0.0152
+Industriale;persona dispersa in montagna;0.0000
+Industriale;recupero in zone difficili;0.0000
+Industriale;emergenza nevosa o ghiaccio;0.0000
+Industriale;incidente escursionistico;0.0000
+Residenziale;infarto;0.1176
+Residenziale;caduta accidentale;0.1176
+Residenziale;intossicazione o avvelenamento;0.0735
+Residenziale;emergenza ostetrica;0.0441
+Residenziale;crisi epilettica;0.0441
+Residenziale;incendio veicolo;0.0294
+Residenziale;incendio edificio;0.0294
+Residenziale;incendio bosco;0.0000
+Residenziale;fuga gas;0.0147
+Residenziale;crollo strutturale;0.0147
+Residenziale;rapina in corso;0.0735
+Residenziale;controllo traffico e incidenti;0.1029
+Residenziale;gestione manifestazioni o proteste;0.0441
+Residenziale;scomparsa persona;0.0441
+Residenziale;truffa o frode;0.0441
+Residenziale;alluvione o esondazione;0.0441
+Residenziale;frana o smottamento;0.0294
+Residenziale;terremoto;0.0147
+Residenziale;evacuazione di zona a rischio;0.0147
+Residenziale;blackout elettrico diffuso;0.0147
+Residenziale;persona dispersa in montagna;0.0000
+Residenziale;recupero in zone difficili;0.0000
+Residenziale;emergenza nevosa o ghiaccio;0.0000
+Residenziale;incidente escursionistico;0.0000
+Est;infarto;0.0882
+Est;caduta accidentale;0.0882
+Est;intossicazione o avvelenamento;0.0735
+Est;emergenza ostetrica;0.0441
+Est;crisi epilettica;0.0441
+Est;incendio veicolo;0.1176
+Est;incendio edificio;0.1176
+Est;incendio bosco;0.0294
+Est;fuga gas;0.0441
+Est;crollo strutturale;0.0588
+Est;rapina in corso;0.0735
+Est;controllo traffico e incidenti;0.0882
+Est;gestione manifestazioni o proteste;0.0588
+Est;scomparsa persona;0.0441
+Est;truffa o frode;0.0441
+Est;alluvione o esondazione;0.0441
+Est;frana o smottamento;0.0294
+Est;terremoto;0.0147
+Est;evacuazione di zona a rischio;0.0147
+Est;blackout elettrico diffuso;0.0147
+Est;persona dispersa in montagna;0.0000
+Est;recupero in zone difficili;0.0000
+Est;emergenza nevosa o ghiaccio;0.0000
+Est;incidente escursionistico;0.0000
+Ovest;infarto;0.0952
+Ovest;caduta accidentale;0.0952
+Ovest;intossicazione o avvelenamento;0.0794
+Ovest;emergenza ostetrica;0.0476
+Ovest;crisi epilettica;0.0476
+Ovest;incendio veicolo;0.0794
+Ovest;incendio edificio;0.0794
+Ovest;incendio bosco;0.0159
+Ovest;fuga gas;0.0317
+Ovest;crollo strutturale;0.0317
+Ovest;rapina in corso;0.0635
+Ovest;controllo traffico e incidenti;0.0794
+Ovest;gestione manifestazioni o proteste;0.0476
+Ovest;scomparsa persona;0.0476
+Ovest;truffa o frode;0.0476
+Ovest;alluvione o esondazione;0.0159
+Ovest;frana o smottamento;0.0159
+Ovest;terremoto;0.0159
+Ovest;evacuazione di zona a rischio;0.0159
+Ovest;blackout elettrico diffuso;0.0159
+Ovest;persona dispersa in montagna;0.0000
+Ovest;recupero in zone difficili;0.0000
+Ovest;emergenza nevosa o ghiaccio;0.0000
+Ovest;incidente escursionistico;0.0000
+ColliBassi;infarto;0.0610
+ColliBassi;caduta accidentale;0.0610
+ColliBassi;intossicazione o avvelenamento;0.0610
+ColliBassi;emergenza ostetrica;0.0244
+ColliBassi;crisi epilettica;0.0244
+ColliBassi;incendio veicolo;0.0488
+ColliBassi;incendio edificio;0.0488
+ColliBassi;incendio bosco;0.0366
+ColliBassi;fuga gas;0.0244
+ColliBassi;crollo strutturale;0.0366
+ColliBassi;rapina in corso;0.0366
+ColliBassi;controllo traffico e incidenti;0.0366
+ColliBassi;gestione manifestazioni o proteste;0.0244
+ColliBassi;scomparsa persona;0.0488
+ColliBassi;truffa o frode;0.0244
+ColliBassi;alluvione o esondazione;0.0610
+ColliBassi;frana o smottamento;0.0610
+ColliBassi;terremoto;0.0244
+ColliBassi;evacuazione di zona a rischio;0.0244
+ColliBassi;blackout elettrico diffuso;0.0244
+ColliBassi;persona dispersa in montagna;0.0610
+ColliBassi;recupero in zone difficili;0.0610
+ColliBassi;emergenza nevosa o ghiaccio;0.0366
+ColliBassi;incidente escursionistico;0.0366
+ColliAlti;infarto;0.0606
+ColliAlti;caduta accidentale;0.0606
+ColliAlti;intossicazione o avvelenamento;0.0455
+ColliAlti;emergenza ostetrica;0.0303
+ColliAlti;crisi epilettica;0.0303
+ColliAlti;incendio veicolo;0.0455
+ColliAlti;incendio edificio;0.0455
+ColliAlti;incendio bosco;0.0606
+ColliAlti;fuga gas;0.0303
+ColliAlti;crollo strutturale;0.0303
+ColliAlti;rapina in corso;0.0303
+ColliAlti;controllo traffico e incidenti;0.0303
+ColliAlti;gestione manifestazioni o proteste;0.0152
+ColliAlti;scomparsa persona;0.0455
+ColliAlti;truffa o frode;0.0303
+ColliAlti;alluvione o esondazione;0.0606
+ColliAlti;frana o smottamento;0.0758
+ColliAlti;terremoto;0.0303
+ColliAlti;evacuazione di zona a rischio;0.0303
+ColliAlti;blackout elettrico diffuso;0.0303
+ColliAlti;persona dispersa in montagna;0.0606
+ColliAlti;recupero in zone difficili;0.0606
+ColliAlti;emergenza nevosa o ghiaccio;0.0455
+ColliAlti;incidente escursionistico;0.0455
+Montagna;infarto;0.0515
+Montagna;caduta accidentale;0.0515
+Montagna;intossicazione o avvelenamento;0.0515
+Montagna;emergenza ostetrica;0.0309
+Montagna;crisi epilettica;0.0309
+Montagna;incendio veicolo;0.0206
+Montagna;incendio edificio;0.0206
+Montagna;incendio bosco;0.0515
+Montagna;fuga gas;0.0206
+Montagna;crollo strutturale;0.0206
+Montagna;rapina in corso;0.0103
+Montagna;controllo traffico e incidenti;0.0103
+Montagna;gestione manifestazioni o proteste;0.0103
+Montagna;scomparsa persona;0.1031
+Montagna;truffa o frode;0.0103
+Montagna;alluvione o esondazione;0.0515
+Montagna;frana o smottamento;0.0515
+Montagna;terremoto;0.0515
+Montagna;evacuazione di zona a rischio;0.0412
+Montagna;blackout elettrico diffuso;0.0412
+Montagna;persona dispersa in montagna;0.1031
+Montagna;recupero in zone difficili;0.0515
+Montagna;emergenza nevosa o ghiaccio;0.0619
+Montagna;incidente escursionistico;0.0515

@@ -1,0 +1,11 @@
+nome;posizione_id;lam
+CentroStorico;0;2.5
+BorgoNuovo;1;1.2
+BorgoAntico;2;1.8
+Industriale;3;1.0
+Residenziale;4;0.9
+Est;5;1.5
+Ovest;6;0.6
+ColliBassi;7;1.1
+ColliAlti;8;0.7
+Montagna;9;0.4
